@@ -1,0 +1,14 @@
+/**
+ * create a foldedr 
+ * yarn init on that folder 
+ * add index.js file on the folder directory 
+ * insltall express package on the server 
+ * ----------------------------------------------------------------
+ * FOR EXPRESS Server 
+ * require express
+ * create app variable 
+ * declare port 
+ * set app.get 
+ * listen to port 
+ * node index.js check your browser on that localhost port 
+ */
