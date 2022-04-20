@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "global": "^4.4.0",
     "nodemon": "^2.0.15"
@@ -10,7 +11,7 @@
   "author": "kridi32 <kridi32@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "start":"node index.js",
-    "start-dev":"nodemon index.js"
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
   }
 }
