@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kridi32 <kridi32@outlook.com>",
+  "license": "MIT"
+}
