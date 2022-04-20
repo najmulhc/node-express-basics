@@ -1,10 +1,16 @@
 {
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.15"
   },
   "name": "y",
   "version": "1.0.0",
   "main": "index.js",
   "author": "kridi32 <kridi32@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start":"node index.js",
+    "start-dev":"nodemon index.js"
+  }
 }
